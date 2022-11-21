@@ -1,6 +1,10 @@
 🌍 Country: Italy
+
 Age: 17
+
 🎂 Birthday: 22 November
+
+Hobbies: 🎮 Playing videogames, 🍿 watching movies, 🧑🏻‍💻 coding
 
 <!---
 Coso04/Coso04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
