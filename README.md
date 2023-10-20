@@ -1,6 +1,6 @@
 🌍 Country: Italy
 
-Age: 17
+Age: 18
 
 🎂 Birthday: 22 November
 
